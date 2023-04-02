@@ -11,12 +11,12 @@ Você também consegue me encontrar no Linkedin clicando no botão abaixo
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wladimir-oliveira-6191b5a7/)
 
 "Pensar é o trabalho mais duro que há. O que é provavelmente o motivo por que tão pouca gente se dedica a fazê-lo" (**Henry Ford**)
-<div>
+<!-- <div>
   <a href="https://github.com/WladimirOSilva">
     <img height="180cm" src="https://github-readme-stats.varcel.app/api?username=WladimirOSilva&show_icons=true&theme=dracula&include_all_commits=true&count=private=true"/>
     <img height="180cm" src="https://github-readme-stats.varcel.app/api/top-langs/?username=WladimirOSilva=compact&langs_count=16&theme=dracula"/>
     <img align="right" width="120" height="120" src="https://media/Cmr10MJ2FN002/giphy.gif">
-  </div>
+  </div> -->
   
   <div>
 
