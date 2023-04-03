@@ -12,7 +12,7 @@ Você também consegue me encontrar no Linkedin clicando no botão abaixo
 
 "Pensar é o trabalho mais duro que há. O que é provavelmente o motivo por que tão pouca gente se dedica a fazê-lo" (**Henry Ford**)
 
-![Snake animation](https://github.com/WladimirOSilva/WladimirOSilva/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/WladimirOSilva/WladimirOSilva/blob/output/github-contribution-grid-snake.svg) -->
 <!-- <div>
   <a href="https://github.com/WladimirOSilva">
     <img height="180cm" src="https://github-readme-stats.varcel.app/api?username=WladimirOSilva&show_icons=true&theme=dracula&include_all_commits=true&count=private=true"/>
